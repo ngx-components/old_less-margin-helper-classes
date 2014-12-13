@@ -1,15 +1,15 @@
 [![AngularJS Express](http://i.imgur.com/nTj9QgN.png)](https://github.com/angular-express/angular-express)
 
-## CSS margin helper classes
+## LESS margin helper classes
 
-Set of CSS margin helper classes that allow you to quickly assign various levels of margin to elements using plain CSS classes.
+Set of LESS margin helper classes that allow you to quickly assign various levels of margin to elements using plain CSS classes.
 
 ## Installation
 
 To install the component:
 
 ```bash
-$ ngx install css-margin-helper-classes
+$ ngx install less-margin-helper-classes
 ```
 
 No clue what the `ngx` command line tool is? Learn more about [AngularJS Express](https://github.com/angular-express/angular-express).
